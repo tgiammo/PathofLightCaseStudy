@@ -1,0 +1,29 @@
+header, nav, main, footer { display: block; }
+* { box-sizing: border-box; }
+body {
+    background-color: #FFFFFF;
+    font-family: Verdana, Arial, sans-serif;
+}
+h1 {
+    font-size: 24pt;
+    color: #000000;
+}
+nav { display: none; }
+main {
+    margin: 0;
+    font-size: 12pt;
+}
+footer {
+    color: #000000;
+    font-size: 8pt;
+    text-align: center;
+}
+.floatleft { display: none; }
+.studio { font-weight: bold;}
+#wrapper {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #ffffff;
+    color:#000000;
+}
+#mobile { display: none; }
+#desktop { display: inline; }
